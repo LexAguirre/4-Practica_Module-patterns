@@ -13,7 +13,9 @@
 
 ## OBJETIVO
 
-- text
+- Javascript Modules
+- Javascript Objects
+- Object literal
 
 > ENTREGA: DOMINGO 27 DE FEBRERO DEL 2022
 
