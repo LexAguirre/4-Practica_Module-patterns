@@ -44,24 +44,48 @@ Object literal: Name/value pair separated by colons and surrounded by curly brac
 
 3. Crear un nuevo archivo greet.js
 
-4. Escribir "console.log("Hello from the module");" en el archivo greet.js y deja el archivo app.js vacio
+4. Escribir "console.log("Hello from the module");" en el archivo greet.js y deja el archivo app.js vacío
 
-5. Ahora en la linea de comando ejecuta "node app" y observa lo ocurrido
+5. Ahora en la línea de comando ejecuta "node app" y observa lo ocurrido
 
 6. Ahora convierte el saludo del archivo greet.js
 
-7. En app.js agregar la cláusula require del archivo greet.js
+7. En app.js agregar la cláusula requiere del archivo greet.js
 
-8. En la linea de comando ejecuta "node app" y observa lo ocurrido
+8. En la línea de comando ejecuta "node app" y observa lo ocurrido
 
 9. Manda llamar la función "greet();" en el archivo app.js
 
-10. En la linea de comando ejecuta "node app" y observa lo ocurrido
+10. En la línea de comando ejecuta "node app" y observa lo ocurrido
 
-11. Ahora la capsula require conviertela en una variable
+11. Ahora la capsula requiere convertirla en una variable
 
-12. En el archivo greet.js en se colocará un "module.export = greet" para que pueda tener acceso al codigo del archivo greet.js
+12. En el archivo greet.js en se colocará un "module.export = greet" para que pueda tener acceso al código del archivo greet.js
 
-13. En la linea de comando ejecuta "node app" y observa lo ocurrido
+13. En la línea de comando ejecuta "node app" y observa lo ocurrido
 
-14. En
+14. Para la siguiente parte Se creará un nuevo directorio llamado "Objects" al mismo nivel de "Modules"
+
+15. Dentro del nuevo directorio crear un archivo llamado app.js
+
+16. Dentro del nuevo archivo app.js se creará un objeto vacío
+
+17. En la línea de comando ejecuta "node app" y observa lo ocurrido
+
+18. Ahora se modificará el objeto llamándolo personal y colocando en su interior el nombre y apellido de una persona, además después de crear el objeto se imprimirá todo el objeto
+
+19. En la línea de comando ejecuta "node app" y observa lo ocurrido
+
+20. Ahora solo se imprimirá el campo nombre y apellido por separado
+
+21. En la línea de comando ejecuta "node app" y observa lo ocurrido
+
+22. Para continuar se creará una función que regrese un string que contenga el nombre y apellido que está en el objeto, además de imprimir el resultado
+
+23. En la línea de comando ejecuta "node app" y observa lo ocurrido
+
+24. Ahora coloca el campo domicilio en la cual se le colocaran más subcampos los cuales son calle, colonia. cp, municipio.
+
+25. Imprime el campo domicilio y en la consola coloca "node app"
+
+26. Por último desarrolla una función que contenga todos los subcampos de domicilio como string e imprime el resultado
